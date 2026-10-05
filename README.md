@@ -67,7 +67,8 @@ To enter different details, erase the flash and start again:
 Note: the ESP32 works only with 2.4 GHz Wi-Fi.
 
 ## How I check that it works
-![Proof](image.png)
+<img width="601" height="679" alt="image" src="https://github.com/user-attachments/assets/5aaeadc1-3386-4cc0-99f3-ca32b5f4359d" />
+
 I opened the HiveMQ web client (https://www.hivemq.com/demos/websocket-client/),
 connected to `broker.hivemq.com`, and subscribed to
 `iot_assignment/dinesh/heartbeat`. A message arrives every 5 seconds.
