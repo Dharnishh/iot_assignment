@@ -137,6 +137,8 @@ On a computer with Mosquitto installed this also works:
 - Board: NUCLEO-C031C6 (STM32C031C6)
 - Tools: STM32CubeMX settings (`.ioc`), STM32 HAL, VS Code with the STM32 extension
 - Main code is inside the `USER CODE` blocks of `Core/Src/main.c`, so CubeMX can regenerate without deleting it.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b52e8dcf-3916-48b8-8b2d-2409f718a78e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/771fe476-365e-4603-804f-6177db62a17e" />
 
 ## Honest status
 
